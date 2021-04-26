@@ -1,0 +1,37 @@
+{
+  "serialPorts": [
+    {
+      "cameraId": "Wattmeter",
+      "brandRate": 1651645512,
+      "serialPort": "port05424",
+      "status": "CONECTADO"
+    },
+    {
+      "cameraId": "Chroma",
+      "brandRate": 154847845,
+      "serialPort": "port15484",
+      "status": "FALHA"
+    },
+    {
+      "cameraId": "UC_ICTS",
+      "brandRate": 98598555,
+      "serialPort": "port01545",
+      "status": "CONECTADO"
+    }
+  ],
+  "usbPorts": [
+    {
+      "cameraId": 1,
+      "serialport": "3.0A",
+      "status": "FALHA"
+    },
+    {
+      "cameraId": 2,
+      "serialport": "9.08B",
+      "status": "CONECTADO"
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
